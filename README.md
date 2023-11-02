@@ -15,7 +15,7 @@ I am an italian guy, 44 years old who has always been fascinated by the world of
 
 GitHub / Symfony / Docker
 
-- 🌱 I’m currently learning OOP with Java, JavaFX, and next step are Python and SCRUM 
+- 🌱 I’m currently learning OOP with Java, JavaFX, and next steps are Python and SCRUM 
 - 📫 How to reach me:  roberto.vicari79@gmail.com 
 
 <!--horizontal divider(gradiant)-->
