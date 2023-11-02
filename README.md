@@ -1,3 +1,9 @@
+<h2>👋 Hi everyone, I’m Roberto Vicari</h2>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 - 👋 Hi everyone, I’m Roberto (@Roberto-vic), an italian guy of 42 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. Recently I decided to start studying the basics of this world new to me, and I came here, 
 hoping to find people who can help me learn better, and who knows, maybe, create some project together.
 - 👀 I’m interested in Websites creation (HTML, CSS and JS)
