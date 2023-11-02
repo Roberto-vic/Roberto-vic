@@ -1,12 +1,12 @@
 <h2>👋 Hi everyone, I’m Roberto Vicari</h2>
 
+![Header](./your-header-image-name.png)
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p>I am an italian guy, 44 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. I live in Hamburg since 2011 and recently, I decided to start studying as a programmer.</p>
 
-<p class="text">
-  I am an italian guy, 44 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. I live in Hamburg since 2011 and recently, I decided to start studying as a programmer. 
-</p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
