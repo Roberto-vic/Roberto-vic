@@ -13,7 +13,7 @@ I am an italian guy, 44 years old who has always been fascinated by the world of
 * 🗄️ MySQL
 * 💻 C/C# - Java
 
-#### GitHub / Symfony / Docker
+GitHub / Symfony / Docker
 
 - 🌱 I’m currently learning OOP with Java, JavaFX, and next step are Python and SCRUM 
 - 📫 How to reach me:  roberto.vicari79@gmail.com 
