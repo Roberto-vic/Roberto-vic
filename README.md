@@ -4,13 +4,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 👋 Hi everyone, I’m Roberto (@Roberto-vic), an italian guy of 42 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. Recently I decided to start studying the basics of this world new to me, and I came here, 
-hoping to find people who can help me learn better, and who knows, maybe, create some project together.
-- 👀 I’m interested in Websites creation (HTML, CSS and JS)
-- 🌱 I’m currently learning the base about this lenguages. 
-- 📫 How to reach me ... roberto.vicari79@gmail.com
+<p class="text">
+  I am an italian guy, 44 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. I live in Hamburg since 2011 and recently, I decided to start studying as a programmer. 
+</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+![Rpbertp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-vic&show_icons=true&theme=tokyonight)
 <!---
 Roberto-vic/Roberto-vic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+.text{
+  color: #DDC0F0;
+  font-size: 18px;
+  }
