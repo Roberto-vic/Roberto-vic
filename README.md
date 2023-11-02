@@ -28,7 +28,9 @@ GitHub / Symfony / Docker
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roberto-vic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roberto-vicari-54330a23a/)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Roberto-vic)  
- 
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Roberto-vic.visitor-badge&left_color=red&right_color=green) 
+
 <!---
 Roberto-vic/Roberto-vic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
