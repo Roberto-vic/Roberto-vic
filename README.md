@@ -21,14 +21,11 @@ GitHub / Symfony / Docker
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Rpbertp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-vic&show_icons=true&theme=tokyonight)
-
+![Rpbertp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-vic&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-vic)](https://github.com/anuraghazra/github-readme-stats)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roberto-vic)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roberto-vicari-54330a23a/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-vic)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Roberto-vic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roberto-vicari-54330a23a/)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Roberto-vic)  
  
