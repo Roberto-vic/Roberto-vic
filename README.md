@@ -12,6 +12,7 @@ I am an italian guy, 44 years old who has always been fascinated by the world of
 * 🌐 HTML - CSS - JS - PHP
 * 🗄️ MySQL
 * 💻 C/C# - Java
+* 🐍 Python
 
 GitHub / Symfony / Docker
 
