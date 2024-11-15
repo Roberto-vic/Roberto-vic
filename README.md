@@ -18,7 +18,8 @@ GitHub / Symfony / Docker / React
 Visual Studio / Visual Studio Code / ReSharper
 
 - 🌱 I’m currently learning OOP with Java, JavaFX, and next steps are Python and SCRUM 
-- 📫 How to reach me:  roberto.vicari79@gmail.com 
+- 📫 How to reach me:  roberto.vicari79@gmail.com
+- 💻 Portfolio: https://roberto-vic.github.io/portfolio/
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
