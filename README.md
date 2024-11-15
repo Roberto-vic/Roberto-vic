@@ -14,7 +14,8 @@ I am an italian guy, 44 years old who has always been fascinated by the world of
 * 💻 C/C# - Java
 * 🐍 Python
 
-GitHub / Symfony / Docker
+GitHub / Symfony / Docker / React
+Visual Studio / Visual Studio Code / ReSharper
 
 - 🌱 I’m currently learning OOP with Java, JavaFX, and next steps are Python and SCRUM 
 - 📫 How to reach me:  roberto.vicari79@gmail.com 
