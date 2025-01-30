@@ -17,7 +17,7 @@ I am an italian guy, 45 years old who has always been fascinated by the world of
 GitHub / Symfony / Docker / React
 Visual Studio / Visual Studio Code / ReSharper
 
-- 🌱 I’m currently looking for a new position to sturt my work experience. 
+- 🌱 I’m currently looking for a new position to start my work experience. 
 - 📫 How to reach me:  roberto.vicari79@gmail.com
 - 💻 Portfolio: https://roberto-vic.github.io/portfolio/
 
