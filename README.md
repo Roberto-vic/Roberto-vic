@@ -1,12 +1,12 @@
 ![Header](./header.png)
 
 # Hi 👋, I'm Roberto Vicari
-### Web- & Software developer student
+### Web- & Software developer just graduated
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am an italian guy, 44 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. I live in Hamburg since 2011 and recently, I decided to start studying as a programmer.
+I am an italian guy, 45 years old who has always been fascinated by the world of coding and creation of internet pages, but has never delved into it. I live in Hamburg since 2011 and recently, I decided to start studying as a programmer.
 
 ### Skills:  
 * 🌐 HTML - CSS - JS - PHP
@@ -17,7 +17,7 @@ I am an italian guy, 44 years old who has always been fascinated by the world of
 GitHub / Symfony / Docker / React
 Visual Studio / Visual Studio Code / ReSharper
 
-- 🌱 I’m currently learning OOP with Java, JavaFX, and next steps are Python and SCRUM 
+- 🌱 I’m currently looking for a new position to sturt my work experience. 
 - 📫 How to reach me:  roberto.vicari79@gmail.com
 - 💻 Portfolio: https://roberto-vic.github.io/portfolio/
 
